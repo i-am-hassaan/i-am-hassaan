@@ -23,9 +23,4 @@ TypeScript, React, Next.js, Node.js, React Native, MongoDB, PostgreSQL, AWS, Ope
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-hassaan&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-hassaan&layout=compact&theme=radical&hide_border=true)
-
----
-
 [Portfolio](https://iamhassaan.com) · [Email](mailto:hassaan.techie@gmail.com)
