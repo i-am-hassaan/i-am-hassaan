@@ -1,45 +1,31 @@
-### Hi, I'm Muhammad Hassaan 👋
+### Hi, I'm Hassaan 👋
 
-**Senior Full-Stack & AI Engineer** · 5+ years building web & mobile products · Top-rated freelancer, 100% Job Success · 50+ projects delivered
+Full-stack engineer building web & mobile products with React/Next.js, Node.js, and LLM-powered features.
 
-I'm a startup veteran who's grown from backend developer to team lead across three startups, owning full product lifecycles from architecture to delivery. Currently freelancing full-time, specializing in AI/LLM integration, Next.js architectures, and cross-platform mobile apps.
-
-Portfolio: https://iamhassaan.com | Lahore, Pakistan | hassaan.techie@gmail.com
-
----
-
-### Tech Stack
-
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Redux
-Backend: Node.js, Express.js, GraphQL, REST APIs, Python
-Mobile: React Native, Expo, iOS, Android
-Database & Cloud: MongoDB, PostgreSQL, AWS, Firebase, Docker
-AI & Integration: OpenAI/GPT, Claude, Gemini, LangChain
-Tools: Git, GitHub, CI/CD, Jira, Agile/Scrum
+• Currently building AI-integrated products in healthcare and fintech
+• Exploring LangChain and agentic workflows
+• Ask me about Next.js, React Native, or LLM integration
+• Reach me at hassaan.techie@gmail.com
 
 ---
 
-### Featured Work
+**Stack**
 
-• Legend EHR: HIPAA-compliant electronic health record system with single-screen clinic workflow (Angular, Node.js, MySQL)
-• Aire Health: B2B dermatology marketplace serving 10K+ professionals, AI-integrated (React, Redux, PHP)
-• Entries: AI-powered finance organizer with smart categorization (React Native, Node.js)
-• Introweb: Instagram-style social platform with real-time chat, reels, video streaming (React, Node.js)
-
-More case studies at https://iamhassaan.com
+TypeScript, React, Next.js, Node.js, React Native, MongoDB, PostgreSQL, AWS, OpenAI, LangChain
 
 ---
 
-### Experience Snapshot
+**Notable Work**
 
-• Upwork / Freelance: Senior Full-Stack Engineer (Apr 2024 - Present)
-• XYTech: Senior Software Engineer & Team Lead (Feb 2025 - Dec 2025)
-• Axis Coding Solutions: Senior Software Engineer & Team Lead (Jan 2024 - Jan 2025)
-• Rebot Company: Full Stack Developer (Oct 2021 - Apr 2022)
-• U-Techware: Backend to Full Stack Developer (Apr 2021 - Oct 2021)
+• Legend EHR: HIPAA-compliant electronic health record system (Angular, Node.js, MySQL)
+• Aire Health: Dermatology marketplace with AI-assisted product matching (React, Redux, PHP)
+• Introweb: Social platform with real-time chat and video streaming (React, Node.js)
 
 ---
 
-### Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-hassaan&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-hassaan&layout=compact&theme=radical&hide_border=true)
 
-Portfolio: https://iamhassaan.com | Email: hassaan.techie@gmail.com
+---
+
+[Portfolio](https://iamhassaan.com) · [Email](mailto:hassaan.techie@gmail.com)
