@@ -5,7 +5,7 @@ Full-stack engineer building web & mobile products with React/Next.js, Node.js, 
 • Currently building AI-integrated products in healthcare and fintech
 • Exploring LangChain and agentic workflows
 • Ask me about Next.js, React Native, or LLM integration
-• Reach me at hassaan.techie@gmail.com
+• Reach me at contact@iamhassaan.com
 
 ---
 
@@ -17,10 +17,12 @@ TypeScript, React, Next.js, Node.js, React Native, MongoDB, PostgreSQL, AWS, Ope
 
 **Notable Work**
 
-• Legend EHR: HIPAA-compliant electronic health record system (Angular, Node.js, MySQL)
-• Aire Health: Dermatology marketplace with AI-assisted product matching (React, Redux, PHP)
-• Introweb: Social platform with real-time chat and video streaming (React, Node.js)
+Most client work is under NDA, so listed by domain rather than name:
+
+• Healthcare SaaS: HIPAA-compliant EHR system for US clinics (Angular, Node.js, MySQL)
+• Marketplace platform: dermatology e-commerce with AI-assisted product matching (React, Redux, PHP)
+• Social platform: real-time chat, reels, and video streaming (React, Node.js)
 
 ---
 
-[Portfolio](https://iamhassaan.com) · [Email](mailto:hassaan.techie@gmail.com)
+[Portfolio](https://iamhassaan.com) · [Email](mailto:contact@iamhassaan.com)
